@@ -1,0 +1,4 @@
+venv/
+untitled/settings.py
+.idea/
+.dbsqlite3
